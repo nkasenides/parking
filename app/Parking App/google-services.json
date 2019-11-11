@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "556697603508",
+    "firebase_url": "https://parking-e64c7.firebaseio.com",
+    "project_id": "parking-e64c7",
+    "storage_bucket": "parking-e64c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556697603508:android:3263857eae140ca51cf6e1",
+        "android_client_info": {
+          "package_name": "com.panickapps.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556697603508-8hqjjggbap9sg7rctu6e52huik07p6j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.panickapps.parking",
+            "certificate_hash": "4b1a4365b162eaa2176b840e315845f99f186f38"
+          }
+        },
+        {
+          "client_id": "556697603508-vj1op1vsmbsafhop41tl6dgmnjgqd9ng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.panickapps.parking",
+            "certificate_hash": "959fa5f046ac85fdc197fcd34ab3c2fb7b573a95"
+          }
+        },
+        {
+          "client_id": "556697603508-0cbtt32rf2llncqtnkg0sb06mkv6j2h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPlxSEMIq9qNjlmUqga0TWu_46x8xixX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556697603508-0cbtt32rf2llncqtnkg0sb06mkv6j2h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -3,4 +3,305 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="taken">#F00</color>
+    <color name="free">#0F0</color>
+
+    <!-- Black, white, transparent -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <!-- Reds -->
+    <color name="redLighten5">#ffebee</color>
+    <color name="redLighten4">#ffcdd2</color>
+    <color name="redLighten3">#ef9a9a</color>
+    <color name="redLighten2">#e57373</color>
+    <color name="redLighten1">#ef5350</color>
+    <color name="red">#f44336</color>
+    <color name="redDarken1">#ef3935</color>
+    <color name="redDarken2">#d32f2f</color>
+    <color name="redDarken3">#c62828</color>
+    <color name="redDarken4">#b71c1c</color>
+    <color name="redAccent1">#ff8a80</color>
+    <color name="redAccent2">#ff5252</color>
+    <color name="redAccent3">#ff1744</color>
+    <color name="redAccent4">#d50000</color>
+
+    <!-- Pinks -->
+    <color name="pinkLighten5">#fce4ec</color>
+    <color name="pinkLighten4">#f8bbd0</color>
+    <color name="pinkLighten3">#f48fb1</color>
+    <color name="pinkLighten2">#f06292</color>
+    <color name="pinkLighten1">#ec407a</color>
+    <color name="pink">#e91e63</color>
+    <color name="pinkDarken1">#d81b60</color>
+    <color name="pinkDarken2">#c2185b</color>
+    <color name="pinkDarken3">#ad1457</color>
+    <color name="pinkDarken4">#880e4f</color>
+    <color name="pinkAccent1">#ff80ab</color>
+    <color name="pinkAccent2">#ff4081</color>
+    <color name="pinkAccent3">#f50057</color>
+    <color name="pinkAccent4">#c51162</color>
+
+    <!-- Purples -->
+    <color name="purpleLighten5">#f3e5f5</color>
+    <color name="purpleLighten4">#e1bee7</color>
+    <color name="purpleLighten3">#ce93d8</color>
+    <color name="purpleLighten2">#ba68c8</color>
+    <color name="purpleLighten1">#ab47bc</color>
+    <color name="purple">#9c27b0</color>
+    <color name="purpleDarken1">#8e24aa</color>
+    <color name="purpleDarken2">#7b1fa2</color>
+    <color name="purpleDarken3">#6a1b9a</color>
+    <color name="purpleDarken4">#4a148c</color>
+    <color name="purpleAccent1">#ea80fc</color>
+    <color name="purpleAccent2">#e040fb</color>
+    <color name="purpleAccent3">#d500f9</color>
+    <color name="purpleAccent4">#aa00ff</color>
+
+    <!-- Deep purples -->
+    <color name="deepPurpleLighten5">#ede7f6</color>
+    <color name="deepPurpleLighten4">#d1c4e9</color>
+    <color name="deepPurpleLighten3">#b39ddb</color>
+    <color name="deepPurpleLighten2">#9575cd</color>
+    <color name="deepPurpleLighten1">#7e57c2</color>
+    <color name="deepPurple">#673ab7</color>
+    <color name="deepPurpleDarken1">#5e35b1</color>
+    <color name="deepPurpleDarken2">#512da8</color>
+    <color name="deepPurpleDarken3">#4527a0</color>
+    <color name="deepPurpleDarken4">#311b92</color>
+    <color name="deepPurpleAccent1">#b388ff</color>
+    <color name="deepPurpleAccent2">#7c4dff</color>
+    <color name="deepPurpleAccent3">#651fff</color>
+    <color name="deepPurpleAccent4">#6200ea</color>
+
+    <!-- Indigos -->
+    <color name="indigoLighten5">#e8eaf6</color>
+    <color name="indigoLighten4">#c5cae9</color>
+    <color name="indigoLighten3">#9fa8da</color>
+    <color name="indigoLighten2">#7986cb</color>
+    <color name="indigoLighten1">#5c6bc0</color>
+    <color name="indigo">#3f51b5</color>
+    <color name="indigoDarken1">#3949ab</color>
+    <color name="indigoDarken2">#303f9f</color>
+    <color name="indigoDarken3">#283593</color>
+    <color name="indigoDarken4">#1a237e</color>
+    <color name="indigoAccent1">#8c9eff</color>
+    <color name="indigoAccent2">#536dfe</color>
+    <color name="indigoAccent3">#3d5afe</color>
+    <color name="indigoAccent4">#304ffe</color>
+
+    <!-- Blues -->
+    <color name="blueLighten5">#e3f2fd</color>
+    <color name="blueLighten4">#bbdefb</color>
+    <color name="blueLighten3">#90caf9</color>
+    <color name="blueLighten2">#64b5f6</color>
+    <color name="blueLighten1">#42a5f5</color>
+    <color name="blue">#2196f3</color>
+    <color name="blueDarken1">#1e88ef</color>
+    <color name="blueDarken2">#1976d2</color>
+    <color name="blueDarken3">#1565c0</color>
+    <color name="blueDarken4">#0d47a1</color>
+    <color name="blueAccent1">#82b1ff</color>
+    <color name="blueAccent2">#448aff</color>
+    <color name="blueAccent3">#2979ff</color>
+    <color name="blueAccent4">#2962ff</color>
+
+    <!-- Light blues -->
+    <color name="lightBlueLighten5">#e1f5fe</color>
+    <color name="lightBlueLighten4">#b3e5fc</color>
+    <color name="lightBlueLighten3">#81d4fa</color>
+    <color name="lightBlueLighten2">#4fc3f7</color>
+    <color name="lightBlueLighten1">#29b6f6</color>
+    <color name="lightBlue">#03a9f4</color>
+    <color name="lightBlueDarken1">#039be5</color>
+    <color name="lightBlueDarken2">#0288d1</color>
+    <color name="lightBlueDarken3">#0277bd</color>
+    <color name="lightBlueDarken4">#01579b</color>
+    <color name="lightBlueAccent1">#80d8ff</color>
+    <color name="lightBlueAccent2">#40c4ff</color>
+    <color name="lightBlueAccent3">#00b0ff</color>
+    <color name="lightBlueAccent4">#0091ea</color>
+
+    <!-- Cyans -->
+    <color name="cyanLighten5">#e0f7fa</color>
+    <color name="cyanLighten4">#b2ebf2</color>
+    <color name="cyanLighten3">#80deea</color>
+    <color name="cyanLighten2">#4dd0e1</color>
+    <color name="cyanLighten1">#26c6da</color>
+    <color name="cyan">#00bcd4</color>
+    <color name="cyanDarken1">#00acc1</color>
+    <color name="cyanDarken2">#0097a7</color>
+    <color name="cyanDarken3">#00838f</color>
+    <color name="cyanDarken4">#006064</color>
+    <color name="cyanAccent1">#84ffff</color>
+    <color name="cyanAccent2">#18ffff</color>
+    <color name="cyanAccent3">#00e5ff</color>
+    <color name="cyanAccent4">#00b8d4</color>
+
+    <!-- Teals -->
+    <color name="tealLighten5">#e0f2f1</color>
+    <color name="tealLighten4">#b2dfdb</color>
+    <color name="tealLighten3">#80cbc4</color>
+    <color name="tealLighten2">#4db6ac</color>
+    <color name="tealLighten1">#26a69a</color>
+    <color name="teal">#009688</color>
+    <color name="tealDarken1">#00897b</color>
+    <color name="tealDarken2">#00796b</color>
+    <color name="tealDarken3">#00965c</color>
+    <color name="tealDarken4">#004d40</color>
+    <color name="tealAccent1">#a7ffeb</color>
+    <color name="tealAccent2">#64ffda</color>
+    <color name="tealAccent3">#1de9b6</color>
+    <color name="tealAccent4">#00bfa5</color>
+
+    <!-- Greens -->
+    <color name="greenLighten5">#e8f5e9</color>
+    <color name="greenLighten4">#c8e6c9</color>
+    <color name="greenLighten3">#a5d6a7</color>
+    <color name="greenLighten2">#81c784</color>
+    <color name="greenLighten1">#66bbb6</color>
+    <color name="green">#4caf50</color>
+    <color name="greenDarken1">#43a047</color>
+    <color name="greenDarken2">#388e3c</color>
+    <color name="greenDarken3">#2e7d32</color>
+    <color name="greenDarken4">#1b5e20</color>
+    <color name="greenAccent1">#b9f6ca</color>
+    <color name="greenAccent2">#69f0ae</color>
+    <color name="greenAccent3">#00e676</color>
+    <color name="greenAccent4">#00c853</color>
+
+    <!-- Light greens -->
+    <color name="lightGreenLighten5">#f1f8e9</color>
+    <color name="lightGreenLighten4">#dcedc8</color>
+    <color name="lightGreenLighten3">#c5e1a5</color>
+    <color name="lightGreenLighten2">#aed581</color>
+    <color name="lightGreenLighten1">#9ccc65</color>
+    <color name="lightGreen">#8bc34a</color>
+    <color name="lightGreenDarken1">#7cb342</color>
+    <color name="lightGreenDarken2">#689f38</color>
+    <color name="lightGreenDarken3">#558b2f</color>
+    <color name="lightGreenDarken4">#33691e</color>
+    <color name="lightGreenAccent1">#ccff90</color>
+    <color name="lightGreenAccent2">#b2ff59</color>
+    <color name="lightGreenAccent3">#76ff03</color>
+    <color name="lightGreenAccent4">#64dd17</color>
+
+    <!-- Lime -->
+    <color name="limeLighten5">#f9fbe7</color>
+    <color name="limeLighten4">#f0f4c3</color>
+    <color name="limeLighten3">#e6ee9c</color>
+    <color name="limeLighten2">#dce775</color>
+    <color name="limeLighten1">#d4e157</color>
+    <color name="lime">#cddc39</color>
+    <color name="limeDarken1">#c0ca33</color>
+    <color name="limeDarken2">#afb42b</color>
+    <color name="limeDarken3">#9e9d24</color>
+    <color name="limeDarken4">#827717</color>
+    <color name="limeAccent1">#f4ff81</color>
+    <color name="limeAccent2">#eeff41</color>
+    <color name="limeAccent3">#c6ff00</color>
+    <color name="limeAccent4">#aeea00</color>
+
+    <!-- Yellows -->
+    <color name="yellowLighten5">#fffde7</color>
+    <color name="yellowLighten4">#fff9c4</color>
+    <color name="yellowLighten3">#fff59d</color>
+    <color name="yellowLighten2">#fff176</color>
+    <color name="yellowLighten1">#ffee58</color>
+    <color name="yellow">#ffeb3b</color>
+    <color name="yellowDarken1">#fdd835</color>
+    <color name="yellowDarken2">#fbc02d</color>
+    <color name="yellowDarken3">#f9a825</color>
+    <color name="yellowDarken4">#f57f17</color>
+    <color name="yellowAccent1">#ffff8d</color>
+    <color name="yellowAccent2">#ffff00</color>
+    <color name="yellowAccent3">#ffea00</color>
+    <color name="yellowAccent4">#ffd600</color>
+
+    <!-- Ambers -->
+    <color name="amberLighten5">#fff8e1</color>
+    <color name="amberLighten4">#ffecb3</color>
+    <color name="amberLighten3">#ffe082</color>
+    <color name="amberLighten2">#ffd54f</color>
+    <color name="amberLighten1">#ffca28</color>
+    <color name="amber">#ffc107</color>
+    <color name="amberDarken1">#ffb300</color>
+    <color name="amberDarken2">#ffa000</color>
+    <color name="amberDarken3">#ff8f00</color>
+    <color name="amberDarken4">#ff6f00</color>
+    <color name="amberAccent1">#ffe57f</color>
+    <color name="amberAccent2">#ffd740</color>
+    <color name="amberAccent3">#ffc400</color>
+    <color name="amberAccent4">#ffab00</color>
+
+    <!-- Oranges -->
+    <color name="orangeLighten5">#fff3e0</color>
+    <color name="orangeLighten4">#ffe0b2</color>
+    <color name="orangeLighten3">#ffcc80</color>
+    <color name="orangeLighten2">#ffb74d</color>
+    <color name="orangeLighten1">#ffa726</color>
+    <color name="orange">#ff9800</color>
+    <color name="orangeDarken1">#fb8c00</color>
+    <color name="orangeDarken2">#f57c00</color>
+    <color name="orangeDarken3">#ef6c00</color>
+    <color name="orangeDarken4">#e65100</color>
+    <color name="orangeAccent1">#ffd180</color>
+    <color name="orangeAccent2">#ffab40</color>
+    <color name="orangeAccent3">#ff9100</color>
+    <color name="orangeAccent4">#ff6d00</color>
+
+    <!-- Deep oranges -->
+    <color name="deepOrangeLighten5">#fbe9e7</color>
+    <color name="deepOrangeLighten4">#ffccbc</color>
+    <color name="deepOrangeLighten3">#ffab91</color>
+    <color name="deepOrangeLighten2">#ff8a65</color>
+    <color name="deepOrangeLighten1">#ff7043</color>
+    <color name="deepOrange">#ff5722</color>
+    <color name="deepOrangeDarken1">#f4511e</color>
+    <color name="deepOrangeDarken2">#e64a19</color>
+    <color name="deepOrangeDarken3">#d84315</color>
+    <color name="deepOrangeDarken4">#bf360c</color>
+    <color name="deepOrangeAccent1">#ff9e80</color>
+    <color name="deepOrangeAccent2">#ff6e40</color>
+    <color name="deepOrangeAccent3">#ff3d00</color>
+    <color name="deepOrangeAccent4">#dd2c00</color>
+
+    <!-- Browns -->
+    <color name="brownLighten5">#efebe9</color>
+    <color name="brownLighten4">#d7ccc8</color>
+    <color name="brownLighten3">#bcaaa4</color>
+    <color name="brownLighten2">#a1887f</color>
+    <color name="brownLighten1">#8d6e63</color>
+    <color name="brown">#795548</color>
+    <color name="brownDarken1">#6d4c41</color>
+    <color name="brownDarken2">#5d4037</color>
+    <color name="brownDarken3">#4e342e</color>
+    <color name="brownDarken4">#3e2723</color>
+
+    <!-- Greys -->
+    <color name="greyLighten5">#fafafa</color>
+    <color name="greyLighten4">#f5f5f5</color>
+    <color name="greyLighten3">#eeeeee</color>
+    <color name="greyLighten2">#e0e0e0</color>
+    <color name="greyLighten1">#bdbdbd</color>
+    <color name="grey">#9e9e9e</color>
+    <color name="greyDarken1">#757575</color>
+    <color name="greyDarken2">#616161</color>
+    <color name="greyDarken3">#424242</color>
+    <color name="greyDarken4">#212121</color>
+
+    <!-- Blue greys -->
+    <color name="blueGreyLighten5">#eceff1</color>
+    <color name="blueGreyLighten4">#cfd8dc</color>
+    <color name="blueGreyLighten3">#b0bec5</color>
+    <color name="blueGreyLighten2">#90a4ae</color>
+    <color name="blueGreyLighten1">#78909c</color>
+    <color name="blueGrey">#607d8b</color>
+    <color name="blueGreyDarken1">#546e7a</color>
+    <color name="blueGreyDarken2">#455a64</color>
+    <color name="blueGreyDarken3">#37474f</color>
+    <color name="blueGreyDarken4">#263238</color>
+
 </resources>
